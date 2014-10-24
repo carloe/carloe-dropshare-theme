@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2014 by original authors @ fontello.com</metadata>
+<defs>
+<font id="drpcarloio" horiz-adv-x="1000" >
+<font-face font-family="drpcarloio" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="cloud" unicode="&#xe800;" d="m0 178q0 55 27 102t75 74q-8 21-8 43 0 58 41 99t99 42q20 0 43-8 34 74 102 119t152 45q110 0 189-73t91-181q82-16 135-80t54-151q0-97-68-166t-166-68l-563 0q-84 0-143 60t-60 143z m63 0q0-58 41-99t99-41l563 0q70 0 121 50t50 121q0 63-39 110t-99 58q-35 8-42 15t-9 42q-8 84-70 141t-147 56q-62 0-117-34t-80-93q-10-19-12-24t-8-13-15-6-22 6q-21 10-43 8-33 0-55-22t-23-56q0-10 4-24 14-33 10-44t-37-30q-70-41-70-121z" horiz-adv-x="1000" />
+<glyph glyph-name="doc" unicode="&#xe801;" d="m0 730l419 0 205-210 0-550-624 0 0 760z m90-90l0-580 444 0 0 430-161 0 0 150-283 0z m61-251l318 0 0-35-318 0 0 35z m0-100l318 0 0-35-318 0 0 35z m0-100l318 0 0-35-318 0 0 35z" horiz-adv-x="624" />
+</font>
+</defs>
+</svg>
