@@ -28,17 +28,11 @@ a:hover {
 	right: 0;
 }
 
-.wrapper:before, .container {
+.container {
 	display: inline-block;
-	padding-top: 5%;
-}
-.wrapper:before {
-	content: '';
-	display: inline-block;
-	width: 0;
-	height: 100%;
-	vertical-align: middle;
-	margin-left: -0.25em;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%)
 }
 
 .header {
@@ -71,6 +65,14 @@ iframe {
 .imagePreview {
 	margin: 0px;
 	padding: 0px;
+}
+
+.imagePreview img {
+	border-style: solid;
+    border-width: 1px;
+    border-color: #ECECEC;
+    vertical-align: middle;
+    max-width: 100%;
 }
 
 .footer {
