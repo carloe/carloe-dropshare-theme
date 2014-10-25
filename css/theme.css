@@ -30,9 +30,11 @@ a:hover {
 
 .container {
 	display: inline-block;
-	position: relative;
-	top: 50%;
-	transform: translateY(-50%)
+  	position: relative;
+  	top: 50%;
+  	-webkit-transform: translateY(-50%);
+  	-ms-transform: translateY(-50%);
+  	transform: translateY(-50%);
 }
 
 .header {
