@@ -1,7 +1,7 @@
 My personal theme for [Dropshare](http://getdropsha.re).
 
-##Screenshot##
+## Screenshot
 ![screenshot](screenshot.png)
 
-##License##
+## License
 MIT
